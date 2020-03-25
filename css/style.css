@@ -1,0 +1,44 @@
+body{
+	background-color: ;
+}
+.container {
+  display: block;
+  width: 400px;
+  margin: 300px auto;
+  box-shadow: 5px 10px 100px #888888;
+  min-height: 450px;
+  max-height: auto;
+}
+.completed{
+	margin-top: 3rem;
+}
+.to-do{
+	margin-top: 3rem;	
+}
+
+#btn{
+	cursor: pointer;
+}
+.input{
+	margin-top: 
+}
+.text{
+	text-align: center;
+	color: #004690;
+}
+
+.color{
+	color: green;
+}
+.color1{
+	color: red;
+}
+
+#input-text{
+	
+	 margin-left:100px;
+}
+hr{
+	width: 50%;
+	margin-bottom: 1rem;
+}
